@@ -14,6 +14,17 @@ Solution Architect with strong hands-on expertise built on years of **Java** dev
 
 ---
 
+### 📜 Certifications & Workplace Engagement
+
+* ☁️ **Google Cloud Certified — Professional Cloud Architect**  
+  [![GCP Professional Architect](https://img.shields.io/badge/Google_Cloud-Professional_Cloud_Architect-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](TON_LIEN_CREDLY)
+
+* ⛑️ **Certified Workplace First Aider (SST — Sauveteur Secouriste du Travail)**  
+  ![First Aid](https://img.shields.io/badge/First_Aid_&_Safety-SST_Certified-00875A?style=for-the-badge)  
+  *Trained and active in workplace first response, emergency management, and fostering a safe team environment.*
+
+---
+
 ### 👥 Community Leadership & Engineering Practice
 
 Beyond pure architecture design, I actively foster technical culture, knowledge sharing, and team growth:
